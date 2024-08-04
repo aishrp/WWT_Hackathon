@@ -38,7 +38,8 @@ User Empowerment: Natural interaction enhances engagement.
 Anomaly Detection: Monitors data for unusual patterns, prompting medical advice.
 Smart Reminders: Schedules medication and appointment reminders.
 
-![Data Flow Diagram](DataFlowDiagram.jpeg)
+## Data Flow Diagram
+![Data Flow Diagram](DataFlowDiagram.jpg)
 
 ## UI/UX Excellence
 We prioritize an intuitive, user-friendly interface that includes:
